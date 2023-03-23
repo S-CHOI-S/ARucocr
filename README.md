@@ -1,2 +1,2 @@
-# arucocrAR
-ocr + aruco detection + AR
+# ARucocr
+AR + aruco detection + ocr
