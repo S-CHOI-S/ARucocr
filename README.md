@@ -1,6 +1,7 @@
 # ARucocr
 AR + aruco detection + ocr
 
+Augmented reality implementation through OCR image text scanning
 <br/>
 
 #### reference website
